@@ -1,0 +1,5 @@
+main:com.xdestcb.piu.PIUPlugin
+name:PIUPlugin
+author:xDest#0932
+info:Plugin for the Columbia MD Main Event PIU Discord
+version:v1.0.0
